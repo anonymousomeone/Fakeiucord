@@ -19,6 +19,8 @@ Aliucord is a modification for the Android Discord app
 ## ⚠️ Important Information
 PLEASE NOTE THAT this is a MODIFICATION of the MODIFICATION of the Discord APP and this is AGAINST THE DISCORD TOS. Use it at your own risk.
 
+<i>Warning: this is unofficial and unsupported, I am not affiliated with the project, I just write code. I am not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed.</i>
+
 ### Supported Android Versions
 
 - Android 7 (SDK 24) - Android 14 QPR2 (SDK 34)
